@@ -1,6 +1,8 @@
 # Food Price Prediction Model
 
-This repository contains a machine learning model that predicts food prices across different states and zones in Nigeria based on features such as state, zone, food type, year, and month. The project leverages various regression algorithms to develop an accurate and user-friendly prediction tool.
+Food prices fluctuate due to various factors, such as changes in supply, demand, weather conditions, and political factors. Predicting food prices is crucial for businesses and consumers to make informed decisions. In this project, I built a machine learning model to predict food prices across various states in Nigeria, such as Lagos, Kano, Abuja, and Rivers, based on factors like the state, zone, food type, year, and month. The goal is to develop an accurate predictive model that can be deployed on the web for easy access and use.
+
+
 
 ---
 
